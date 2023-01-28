@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3395b2df-f12d-47a5-9262-8e4ade9eb810" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3395b2df-f12d-47a5-9262-8e4ade9eb810" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +62,6 @@
       <list>
         <item itemvalue="Application.GitTest" />
         <item itemvalue="Application.GitTest" />
-        <item itemvalue="Application.GitTest" />
-        <item itemvalue="Application.GitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674873511820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hot-fix commit">
+      <created>1674875168466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674875168466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,24 +122,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="hot-fix commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1124" y="335" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1674873208655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="335" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1674873208655" />
-    <state x="980" y="90" key="CommitChangelistDialog2" timestamp="1674873696754">
+    <state x="980" y="90" key="CommitChangelistDialog2" timestamp="1674875167450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="980" y="90" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1674873696754" />
+    <state x="980" y="90" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1674875167450" />
+    <state x="934" y="100" width="893" height="800" key="DiffContextDialog" timestamp="1674875210965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="934" y="100" width="893" height="800" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1674875210965" />
     <state x="1160" y="255" key="FileChooserDialogImpl" timestamp="1674872940146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1160" y="255" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1674872940146" />
+    <state x="368" y="66" key="MergeDialog" timestamp="1674875266482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="66" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1674875266482" />
+    <state x="1089" y="215" key="MultipleFileMergeDialog" timestamp="1674875271320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1089" y="215" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1674875271320" />
     <state x="880" y="142" key="SettingsEditor" timestamp="1674873374848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1674873374848" />
+    <state x="1149" y="212" key="git4idea.branch.GitSmartOperationDialog" timestamp="1674875248848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1149" y="212" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1674875248848" />
   </component>
 </project>
